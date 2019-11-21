@@ -1,0 +1,34 @@
+122  cat junos.yaml
+  123  yum install python-pip
+  124  yum install epel-release
+  125  yum install python-pip
+  126  pip install junos-eznc
+  127  pip install --upgrade pip
+  128*
+  129  ansible-playbook junos.yaml
+  130  pip install junos-eznc
+  131  yum install python36u
+  132  yum install https://centos7.iuscummunity.org/ius-release.rpm
+  133  yum install centos-release-scl
+  134  yum install rh-python36
+  135  pip install junos-eznc
+  136  ansible-playbook junos.yaml
+  137  pip install -U junos-eznc
+  138  pip install nccclient
+  139  python --version
+  140  yum update python
+  141  python
+  142  pip install -U junos-eznc
+  143  pip install --upgrade setuptools
+  144  pip install -U junos-eznc
+  145  ansible-playbook junos.yaml
+  146  pip install junos-eznc
+  147  pip3 install --upgrade PyYAML
+  148  pip install --upgrade PyYAML
+  149  pip install --ignore-installed PyYAML
+  150  pip install junos-eznc
+  151  ansible-playbook junos.yaml
+  152  pip install jxmlease
+  153  ansible-playbook junos.yaml
+  154  history
+[root@localhost juan]#
