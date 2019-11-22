@@ -1,0 +1,31 @@
+  392  ls
+  393  git add cisco.yaml
+  394  git status
+  395  git commit -m "Intial Commit"
+  396  git status
+  397  git log
+  398  clear
+  399  ls
+  400  vi cisco.yaml
+  401  git diff
+  402  git checkout cisco.yaml
+  403  git diff
+  404  git add .
+  405  git commit -m "second commit"
+  406  git status
+  407  git log
+  408  clear
+  409  ls
+  410  vi cisco.yaml
+  411  vi testfile
+  412  git diff
+  413  git checkout testfile
+  414  git diff
+  415  git checkout
+  416  git diff
+  417  git checkout cisco.yaml
+  418  git status
+  419  git reflog
+  420  git logs
+  421  git log
+  422  history
